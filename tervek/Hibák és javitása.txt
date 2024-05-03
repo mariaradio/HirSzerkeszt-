@@ -1,0 +1,23 @@
+Script @php artisan package:discover --ansi handling the post-autoload-dump event returned with error code 1
+vagy
+`App\Http\Controllers\FelhasznaloController` is not invokable: The controller class `App\Http\Controllers\FelhasznaloController` is not invokable. Did you forget to add the `__invoke` method or is the controller's method missing in your routes file?
+tegyük bele egy xampp ht docs ba teljes mappastúl
+nodes origin le töltése
+composer require laravel/breeze --dev parancs kiadása a mappán belül
+php artisan breeze:install parancs használata
+
+
+
+composer update nem müködik.
+composer install nem müködik.
+php artisan breeze:installl nem müködik.
+npm install nem müködött.
+
+
+npm audit fix probléma meg maradt viszont kérdöjeles hogy hatással volt a hibára.(npm install kérte)
+
+Warning: Undefined array key "felhAzon" in C:\xampp\htdocs\dobrocsi_kornel_gyakornoki_munka\index.php on line 5
+
+Warning: Undefined variable $felh in C:\xampp\htdocs\dobrocsi_kornel_gyakornoki_munka\index.php on line 7
+
+Fatal error: Uncaught Error: Call to a member function get_session() on null in C:\xampp\htdocs\dobrocsi_kornel_gyakornoki_munka\index.php:7 Stack trace: #0 {main} thrown in C:\xampp\htdocs\dobrocsi_kornel_gyakornoki_munka\index.php on line 7

@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2023-12-08T08:08:29.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zNgJVQMlTJ_xDt2boUtX" version="22.1.7" type="device">
+  <diagram name="1 oldal" id="Eoc91ZO2bPAoRf95zQQq">
+    <mxGraphModel dx="1176" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yJ3nKlxOjGw7-AYpLivc-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="110" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ3nKlxOjGw7-AYpLivc-2" value="hír címének maximális hossza" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ3nKlxOjGw7-AYpLivc-3" value="admin_Szerkesztes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ3nKlxOjGw7-AYpLivc-4" value="hír maximális hossza" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="130" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ3nKlxOjGw7-AYpLivc-6" value="34" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ3nKlxOjGw7-AYpLivc-7" value="500" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elk5sxfQZJVMTDxw3TTL-1" value="Mentés" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="elk5sxfQZJVMTDxw3TTL-2" value="Mégse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

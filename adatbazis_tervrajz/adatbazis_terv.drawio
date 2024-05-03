@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-09-15T12:00:18.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Z8DgnlCqmynZ1pGI6oJ8" version="21.7.5" type="device">
+  <diagram name="1 oldal" id="yOcQ3UklcMaMWjQGHxZa">
+    <mxGraphModel dx="1194" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TwvdtIE45hfs39USQxu--31" value="Adminisztrátor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="280" width="140" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--36" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--31" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--37" value="Felhasználó_név" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--31" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--38" value="jogosultság" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--31" vertex="1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--32" value="jelszo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--31" vertex="1">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--33" value="Email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--31" vertex="1">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--39" value="Hírszerkesztő" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345.5" y="280" width="136" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--56" value="hír címe" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--39" vertex="1">
+          <mxGeometry y="26" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--40" value="feltöltő_neve" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--39" vertex="1">
+          <mxGeometry y="52" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--41" value="feltöltés ideje" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--39" vertex="1">
+          <mxGeometry y="78" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--43" value="lejárat ideje" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--39" vertex="1">
+          <mxGeometry y="104" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--44" value="felolvasások_száma" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--39" vertex="1">
+          <mxGeometry y="130" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--45" value="szöveg?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--39" vertex="1">
+          <mxGeometry y="156" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P1wKYRbbeYLJAvznByEt-5" value="Felolvasando?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TwvdtIE45hfs39USQxu--39">
+          <mxGeometry y="182" width="136" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--46" value="Hírolvasó?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="549" y="280" width="140" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--71" value="hír címe" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--46" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--72" value="feltöltő_neve" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--46" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--75" value="szöveg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--46" vertex="1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--74" value="felolvasás_száma" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--46" vertex="1">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--73" value="lejárat ideje" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="TwvdtIE45hfs39USQxu--46" vertex="1">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P1wKYRbbeYLJAvznByEt-6" value="Felolvasando" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TwvdtIE45hfs39USQxu--46">
+          <mxGeometry y="156" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--59" value="&lt;div&gt;jogosultság 1-7&lt;/div&gt;&lt;div&gt;és switch segítségével választ&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="535" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--60" value="ID kulcs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1wKYRbbeYLJAvznByEt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwvdtIE45hfs39USQxu--61" target="TwvdtIE45hfs39USQxu--62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--61" value="Hír címe_kulcs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="344" y="535" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--62" value="Csatlakozás kell és ha kell hogyan&amp;nbsp; mi legyen az alapja?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="308.5" y="640" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TwvdtIE45hfs39USQxu--76" value="&lt;div&gt;Hír olvasó szükségének még utána kell kérdezni.&lt;/div&gt;&lt;div&gt;Össze lehete vonni a szerkesztővel?&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="495" width="181" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

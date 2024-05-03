@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-12-01T11:56:28.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xArr5WU7y123gexM-fpL" version="22.1.5" type="device">
+  <diagram name="1 oldal" id="jIm7Xb4gZyrj69TqKMcM">
+    <mxGraphModel dx="1176" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="piy3OP_ZHAbPXnTtK_gY-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="129" y="110" width="570" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="piy3OP_ZHAbPXnTtK_gY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="250" width="340" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="piy3OP_ZHAbPXnTtK_gY-2" value="Jelszo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="450" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piy3OP_ZHAbPXnTtK_gY-3" value="Email cím vagy felhasznaló név" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="410" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piy3OP_ZHAbPXnTtK_gY-4" value="&lt;div&gt;Mária Rádió hírszerkesztő felület&lt;/div&gt;&lt;div&gt;Bejelentkezes&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="310" y="260" width="210" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

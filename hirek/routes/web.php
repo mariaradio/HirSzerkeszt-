@@ -51,6 +51,7 @@ Route::get('/felolvasas',[FelolvasasController::class,'show2'], function () {
 
 Route::put('/users/{id}', [UserController::class, 'update' ])->name('user.update');
 Route::put('/users/{id}', [UserController::class, 'update2' ])->name('user.update2');
+Route::put('/hirs/{id}', [HirController::class, 'update2' ])->name('hir.update2');
 Route::post('/hirs',[HirController::class,'mentes'])->middleware(['auth','verified'])->name('mentes');
 Route::post('/increment-felolvasasok-szama', [HirController::class, 'incrementFelolvasasokSzama']);
 

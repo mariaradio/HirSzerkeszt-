@@ -243,5 +243,22 @@ class HirController extends Controller
     DB::table('hirs')->wherehir_id($Data2['felolvasas'])->increment('felolvasasok_szama');
     return redirect()->back()->with('siker', 'Új sikeres felvétele');
     }
+
+    public function update2(Request $request, $id)
+    {
+        // Validate the incoming request data
+        $validatedData = $request->validate([
+            'cim' => 'required|string',
+            'tartalom' => 'required|string',
+
+        ]);
+        $Data2=$request->input('rows');
+        $hirs = hir::findOrFail($id);
+        $hirs->cim = $validatedData['cim'];
+        $hirs->tartalom = $validatedData['tartalom'];
+        $hirs->save();
+        
+        return redirect()->back();
+    }
 }
 
